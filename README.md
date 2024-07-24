@@ -2,10 +2,20 @@
 
 I'm stiffis, an 18 year old guy who likes code a lot.
 
-I'm focused on understanding new emerging technologies, such as AI, Neural Networks and, why not, game development.
+Focused on understanding new emerging technologies, such as AI, Neural Networks and, why not, game development.
 
-I love to customize my workspace, that's why I use Linux (soon my dotflies..).
+I like to customize my workspace, that's why I use Linux (soon my dotflies..).
 
-I use Python for most of my projects, but I'm learning C++ for memory control.
+Use Python for most of my projects, but I'm learning C++ for memory control.
 
-## ....
+## Things I love ❤️
+
+- Python, C++  
+
+- Maths (especially Calculus, Discrete, Geometry, Trigonometry and my sweetie, Algebra)
+
+- Linux
+
+- My friends
+
+- My family
