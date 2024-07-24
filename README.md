@@ -1,6 +1,6 @@
 # Hello👋!!
 
-I'm stiff.is, an 18 year old guy who likes code a lot.
+I'm stiffis, an 18 year old guy who likes code a lot.
 
 I'm focused on understanding new emerging technologies, such as AI, Neural Networks and, why not, game development.
 
