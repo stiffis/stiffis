@@ -19,3 +19,5 @@ Use Python for most of my projects, but I'm learning C++ for memory control.
 - My friends
 
 - My family
+
+>I hope to do some good with all this.
