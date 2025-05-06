@@ -1,14 +1,14 @@
 # Hello👋!!
 
-I'm stiffis, an 18 year old guy who likes code a lot.
+I'm stiffis, CS student and VIM and cat lover.
 
 Focused on understanding new emerging technologies, such as AI, Neural Networks and, why not, game development.
 
 I like to customize my workspace, that's why I use Linux (soon my dotflies..).
 
-Use Python for most of my projects, but I'm learning C++ for memory control.
+C++ is my pookie, long life to pointers *****
 
-## Things I love ❤️
+## Things I like ❤️
 
 - Python, C++  
 
@@ -16,8 +16,6 @@ Use Python for most of my projects, but I'm learning C++ for memory control.
 
 - Linux
 
-- My friends
+- Read about philosophy and psychology
 
-- My family
-
->I hope to do some good with all this.
+- Vimkeys :D
