@@ -1,6 +1,6 @@
 # Hello👋!!
 
-I'm stiffis, CS student and VIM and cat lover.
+I'm stiffis, CS student and VIM lover.
 
 Focused on understanding new emerging technologies, such as AI, Neural Networks and, why not, game development.
 
