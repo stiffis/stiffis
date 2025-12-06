@@ -1,5 +1,7 @@
 # Hello👋!!
 
+![Profile Views](https://api.countapi.xyz/hit/stiffis/profile_views)
+
 I'm Steve, CS student and VIM lover.
 
 Focused on understanding new emerging technologies, such as AI, Neural Networks and, why not, game development.
