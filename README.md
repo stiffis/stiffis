@@ -1,6 +1,6 @@
 # Hello👋!!
 
-![Profile Views](https://api.countapi.xyz/hit/stiffis/profile_views)
+![Views](https://hits.sh/github.com/stiffis/stiffis.svg)
 
 I'm Steve, CS student and VIM lover.
 
