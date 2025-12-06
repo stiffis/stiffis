@@ -1,7 +1,5 @@
 # Hello👋!!
 
-![Views](https://hits.sh/github.com/stiffis/stiffis.svg)
-
 I'm Steve, CS student and VIM lover.
 
 Focused on understanding new emerging technologies, such as AI, Neural Networks and, why not, game development.
